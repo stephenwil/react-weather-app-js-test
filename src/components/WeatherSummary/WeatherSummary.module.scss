@@ -1,0 +1,19 @@
+.weatherSummary {
+  &__legend {
+    bottom: -1rem;
+    display: flex;
+    position: absolute;
+  }
+}
+
+.icon {
+  width: 20px;
+  height: 20px;
+}
+
+.weatherDataTable {
+  td {
+    width: 3rem;
+    text-transform: capitalize;
+  }
+}

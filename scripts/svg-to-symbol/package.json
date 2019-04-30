@@ -1,0 +1,18 @@
+{
+  "name": "svg-to-symbol",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "cheerio": "^1.0.0-rc.3",
+    "fast-glob": "^2.2.6"
+  },
+  "engines": {
+    "node": ">=10.0.0",
+    "yarn": "^1.0.0"
+  },
+  "scripts": {
+    "start": "node ."
+  }
+}
